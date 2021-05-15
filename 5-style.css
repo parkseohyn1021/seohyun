@@ -1,0 +1,79 @@
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	line-height: 100px;
+	font-family: 'Playfair Display', serif;
+	color: #333333;
+	background-image: url("https://cdn.pixabay.com/photo/2016/09/01/19/13/confetti-1637197_960_720.jpg");
+
+}
+
+h2 {
+	font-size: 60px;
+	margin-left: 50px;
+	margin-top: 200px;
+	font-family: 'Lora', serif;
+	color: #333333;
+	text-shadow: 4px 3px 0px #DCDCDC;
+}
+h3 {
+	font-family: 'Lora', serif;
+	font-size: 32px;
+}
+.title1 {
+}
+.title2 {
+	text-align: right;
+	margin-right: 50px;
+}
+.content1 {
+	text-align: center;
+	box-shadow: 8px 10px 3px #DCDCDC;
+	padding: 36px;
+	width: 500px;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+img{
+	width:100%;
+	border-radius: 10px;
+
+}
+.content2 {
+	margin-left: 50px;
+	background-color: #FFFAEA;
+	width: 500px;
+    padding: 50px;
+}
+.content3 {
+	margin-right: 50px;
+	background-color: #EBF8FF;
+	width: 500px;
+	margin-left: auto;
+    padding: 50px;
+}
+.content4 {
+	margin-left: 50px;
+	background-color: #FFEEEE;
+	width: 500px;
+    padding: 50px;
+}
+
+.explain {
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Noto Sans KR', sans-serif;
+	margin-bottom: 50px;
+	text-align: justify;
+}
+.link {
+	border: 2px solid #333333;
+	border-radius: 3px;
+	text-decoration: none;
+	padding: 6px 20px;
+	font-family: 'Playfair Display', serif;
+	color: #333333;
+	font-size: 15px;
+}
+
